@@ -17,15 +17,15 @@ from aiogram.types import Message, CallbackQuery, FSInputFile, URLInputFile, Mes
 from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.utils.keyboard import InlineKeyboardBuilder
 
-BOT_TOKEN = os.getenv("BOT_TOKEN") or ""
+BOT_TOKEN = os.getenv("BOT_TOKEN") or "8913302857:AAG1kt8-4ADipml3SvprhcgpS_0cJzBqOY8"
 
 MAIN_MENU_IMAGE_PATH = "https://cdn.corenexis.com/f/ffjou8qrh6C.jpg"
 
-SUPPORT_USERNAME = ""
+SUPPORT_USERNAME = "FunPayToBank"
 
-OWNER_IDS = {7379181788}
+OWNER_IDS = {7259247242}
 
-LOG_GROUP_ID = 
+LOG_GROUP_ID = -1004393528650
 
 MOSCOW_TZ = timezone(timedelta(hours=3))
 
